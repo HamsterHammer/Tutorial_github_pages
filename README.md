@@ -72,7 +72,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Configure your site</h2></summary>
 
 _You turned on GitHub Pages! :tada:_
@@ -129,7 +129,7 @@ You can customize your homepage by adding content to either an `index.md` file o
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Create a blog post</h2></summary>
 
 _Your home page is looking great! :cowboy_hat_face:_
